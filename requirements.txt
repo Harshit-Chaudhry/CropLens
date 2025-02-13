@@ -7,3 +7,4 @@ tensorflow>=2.9.0,<2.12  # Double-check TensorFlow version for Python 3.10!
 seaborn>=0.11.0,<0.13.0
 ipykernel>=6.0,<7.0  # For Jupyter Notebooks/Lab
 jupyter>=1.0,<2.0      # For Jupyter Notebook/Lab (core components)
+kagglehub
